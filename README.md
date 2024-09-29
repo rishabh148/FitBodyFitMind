@@ -1,0 +1,1 @@
+This was a project that I build for my Web Technology Lab Assessment. It displays various excercises to perform for various muscle groups. It also has links to several youtube videos to help you properly visualise the excercise.
